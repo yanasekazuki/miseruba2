@@ -1,0 +1,141 @@
+/* ヘッダーカテゴリナビの背景色変更 */
+.ec-itemNav__nav li a {
+  background: #595657;
+}
+
+.ec-itemNav__nav > li:hover > a {
+  background: #a9a9a9;
+}
+
+
+
+.ec-headerRole {
+  background: #595657;
+}
+.ec-headerRole img {
+    max-width:50%;
+}
+
+.ec-itemNav {
+text-align:left;
+}
+
+.ec-headerTitle__title{
+        max-width:40%;
+  background: #595657;
+  padding-top:5px;
+  padding-left:28px;
+padding-right: 20px;
+}
+
+.ec-productRole{
+    padding-top:30px;  
+}
+
+.ec-headerNaviRole{
+  background: #595657;
+}
+
+.ec-headerSearch .ec-headerSearch__category .ec-select select {
+    color: #595657;
+    background: #DDDDDD;
+        text-indent: 18.01px;
+}
+
+/* ロゴの背景色変更 */
+.ec-categoryNaviRole {
+  background: #595657;
+}
+
+/* カテゴリナビ(PC)文字変更 */
+.ec-itemNav__nav li a {
+        color: #ffffff;
+}
+
+
+/* DW-ヘッダー(商品検索・ログインナビ・カート)文字変更 */
+.ec-headerNav .ec-headerNav__itemIcon {
+    color: #ffffff;
+}
+/* DW-ヘッダー(商品検索・ログインナビ・カート)文字変更 */
+.ec-headerNav .ec-headerNav__itemLink {
+        color: #ffffff;
+}
+
+.ec-headerNaviRole {
+        padding-bottom:15px;
+        padding-top:10px;
+}
+
+/* ヘッダーカート色変更 */
+.ec-cartNavi {
+            color: #ffffff;
+  background: #595657;
+}
+
+/* 新着商品　3列に */
+.ec-shelfGridCenter .ec-shelfGridCenter__item {
+    width: 33.3%;
+}
+
+/* カートボタン色変更 */
+.ec-blockBtn--action {
+      background: #595657;
+      border-color:black;
+}
+
+.ec-blockBtn--action:hover {
+    background-color:#DCDFDE;
+    border-color:#595657;
+}
+
+/* フッター背景変更 */
+.ec-footerRole {
+    background: #595657;
+
+}
+
+.ec-footerTitle {
+        padding:10px 0px 25px;
+}
+
+    
+.ec-footerNavi {
+    padding-bottom:30px;
+}
+
+/* ヘッダー(商品検索・ログインナビ・カート)　位置の微調整 */
+
+.ec-headerNaviRole .ec-headerNaviRole__left {
+    width: 50%;
+    padding-left: 50px;
+}
+
+
+.ec-headerNaviRole .ec-headerNaviRole__right {
+    width: 50%;
+}
+
+.ec-newsRole {
+    padding:30px 0 0;
+}
+
+.ec-sliderRole {
+    margin-bottom: 10px;
+}
+
+.ec-shelfGridCenter{
+border:16px solid #F8F8F8;
+padding: 20px 30px;
+}
+
+.ec-itemNav__nav li ul li a {
+    color: #595657;
+    background:#ffffff;
+  
+}
+/* トップスライダーの位置の微調整 */
+.ec-sliderRole{
+    padding-left:0px;
+    padding-right:0px;
+}
